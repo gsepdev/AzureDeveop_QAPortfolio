@@ -17,7 +17,7 @@ Welcome to the Azure DevOps project within my QA Portfolio! This project showcas
 
 To explore the details of this project and how Azure DevOps is leveraged for effective project management, you can:
 - Click on the link to the project above.
-[Check the screenshots of Epics, features created in azure devop.](![](https://github.com/gsepdev/AzureDevop_QAPortfolio/blob/main/Azure_QA_Management.jpg))
+[Check the screenshots of Epics, features created in azure devop.] (https://github.com/gsepdev/AzureDevop_QAPortfolio/blob/main/Azure_QA_Management.jpg)
 
 ## Technologies Used
 
