@@ -22,6 +22,9 @@ Welcome to the Azure DevOps project within my QA Portfolio! This project showcas
 - Work items, team members
 ![Work items, team members](https://github.com/gsepdev/AzureDevop_QAPortfolio/blob/main/azure-devops-workitems.jpg)
 
+-Board
+![azure_board](https://github.com/gsepdev/AzureDevop_QAPortfolio/blob/main/azureDevopBoard.jpg)
+
 ## Technologies Used
 
 - **Azure DevOps:** Utilized for scrum project management.
