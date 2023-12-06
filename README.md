@@ -19,6 +19,8 @@ Welcome to the Azure DevOps project within my QA Portfolio! This project showcas
 - See  below some Epics and features created.
 ![Check the screenshots of Epics, features,etc](https://github.com/gsepdev/AzureDevop_QAPortfolio/blob/main/Azure_QA_Management.jpg)
 
+- Work items, team members
+![Check the screenshots of work items](https://github.com/gsepdev/AzureDevop_QAPortfolio/blob/main/azure-devops-workitems.jpg) 
 
 ## Technologies Used
 
