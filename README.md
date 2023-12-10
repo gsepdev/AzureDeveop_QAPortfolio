@@ -1,4 +1,4 @@
-# Azure DevOps Project in QA Portfolio
+# Azure DevOps/Jira Project in QA Portfolio
 
 Welcome to the Azure DevOps project within my QA Portfolio! This project showcases the application of Azure DevOps for agile portfolio management, aimed at enhancing the planning, execution, and collaboration aspects of my QA portfolio.
 
